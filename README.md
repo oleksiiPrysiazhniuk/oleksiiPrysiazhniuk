@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="[https://daniilshat.ru/](https://oasys.in.ua/)" target="_blank">Daniil</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">CTO in Oasys inc. from Ukraine </h3>
+
 
 <!--
 **oleksiiPrysiazhniuk/oleksiiPrysiazhniuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
